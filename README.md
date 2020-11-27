@@ -15,6 +15,8 @@ https://golangbot.com/learn-golang-series/
 
 https://www.golangprograms.com/go-language.html
 
+https://yourbasic.org/golang/#why-go
+
 
 # Gorilla Mux
 go get -u github.com/gorilla/mux

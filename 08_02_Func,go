@@ -1,0 +1,26 @@
+package main
+
+import "fmt"
+
+func max(num1 int , num2 int) int {
+  var result int
+  /* local variable declaration */
+  if (num1 > num2) {
+    result = num1
+  } else if (num1 < num2){
+    result = num2
+  }else{
+    fmt.Println("\n\nEqual Value ..!!")
+  }
+  return result
+}
+func main() {
+  var x int
+  var y int
+  fmt.Println("Enter Num1 = ")
+  fmt.Scan(&x)
+  fmt.Println("Enter Num2 = ")
+  fmt.Scan(&y)
+  res := max(x, y)
+	fmt.Println("\nMaximum = ",res)
+}

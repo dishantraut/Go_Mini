@@ -4,6 +4,7 @@ Mini Projects in GO_LANG
 
 Some References :-
 
+https://sal.as/post/install-golan-on-wsl/
 
 https://gobyexample.com/
 
